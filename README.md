@@ -1,5 +1,5 @@
 # Animal Checkers
-Animal Checkers is a web-based checkers game with an animal theme. In this game, the user plays against an opponent robot. All the pieces represent animals, hence it being animal-themed.
+Animal Checkers is a p5.js checkers game with an animal theme. In this game, the user plays against an opponent robot. All the pieces represent animals, hence it being animal-themed.
 
 ![](./game_example.png)
 <br>
